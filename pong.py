@@ -59,7 +59,7 @@ def paddle_1_down():
     y -= 20
     paddle_1.sety( y)
 
-    # Function
+# Function
 def paddle_2_up():
     y = paddle_2.ycor()
     y += 20
